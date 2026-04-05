@@ -1,0 +1,1 @@
+void emitir_alerta(int n)
